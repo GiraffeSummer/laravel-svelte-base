@@ -13,7 +13,7 @@ and:
 So you only need to run 1 command
 
 I might want to add more packages to this to make it integrate a bit better,  
-this may include but not exclusive to:
+this might include something like:
 - ziggy-js
 
 But I do not want to add any specific packages like:
